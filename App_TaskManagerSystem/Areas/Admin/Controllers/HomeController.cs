@@ -4,7 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace App_TaskManagerSystem.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    //[Authorize("Admin")]
+    [Authorize(Policy = "CustomRolePolicy")]
+
     public class HomeController : Controller
     {
         
