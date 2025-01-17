@@ -5,6 +5,7 @@ E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\TaskManagerModels
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\TaskManagerModels.pdb
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\EntityFramework.SqlServer.dll
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\EntityFramework.dll
+E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Humanizer.dll
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -12,6 +13,7 @@ E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.AspNetC
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
 E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
@@ -37,5 +39,3 @@ E:\TaskManagerSystem\TaskManagerSystem\Models\obj\Debug\net6.0\refint\TaskManage
 E:\TaskManagerSystem\TaskManagerSystem\Models\obj\Debug\net6.0\TaskManagerModels.pdb
 E:\TaskManagerSystem\TaskManagerSystem\Models\obj\Debug\net6.0\TaskManagerModels.genruntimeconfig.cache
 E:\TaskManagerSystem\TaskManagerSystem\Models\obj\Debug\net6.0\ref\TaskManagerModels.dll
-E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Humanizer.dll
-E:\TaskManagerSystem\TaskManagerSystem\Models\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
