@@ -1,5 +1,0 @@
-*.suo                                      # Bỏ qua tất cả các file có đuôi .suo
-bin/                                       # Bỏ qua thư mục bin và tất cả nội dung bên trong
-obj/                                       # Bỏ qua thư mục obj và tất cả nội dung bên trong
-[Debug]/                                   # Bỏ qua thư mục Debug
-[Release]/ 
